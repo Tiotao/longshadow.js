@@ -10,6 +10,7 @@ Longshadow generator for all divs using box-shadow. Simply plug and play. See de
 longShadow($target, degree, color, length, fade_rate)
 
 ```
+
 # Example
 
 ```
@@ -19,3 +20,9 @@ $(document).ready(function(){
 			
 ```
 
+# Reference
+
+```
+http://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors
+http://codepen.io/oos87/pen/Cvymb
+```
