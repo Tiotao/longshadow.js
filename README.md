@@ -19,5 +19,5 @@ $(document).ready(function(){
 
 
 - [Calculate Lighter Color] (http://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors)
-- [Long Shadow Implementation] in SASS (http://codepen.io/oos87/pen/Cvymb)
+- [Long Shadow Implementation in SASS] (http://codepen.io/oos87/pen/Cvymb)
 

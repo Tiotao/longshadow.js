@@ -11,18 +11,15 @@ function shadeColor2(color, percent) {
 }
 
 function shade(color, percent){
-
     if (color.length > 7 ) return shadeRGBColor(color,percent);
     else return shadeColor2(color,percent);
 }
-
 
 
 var parseCSS = function (original, array) {
 	var css = ', ' + array[0] + 'px ' + array[1] + 'px ' + array[2];
 	return original + css
 }
-
 
 var longShadow = function (target, degree, color, length, shade_ratio) {
 	
