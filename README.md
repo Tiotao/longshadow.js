@@ -3,6 +3,8 @@ longshadow.js
 
 Longshadow generator for all divs using box-shadow. Simply plug and play. See demo. 
 
+![Demo Image](https://raw.githubusercontent.com/Tiotao/longshadow.js/master/demo.png)
+
 ## Usage
 
 `longShadow($target, degree, color, length, fade_rate)`
